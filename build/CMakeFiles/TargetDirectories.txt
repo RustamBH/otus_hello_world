@@ -1,0 +1,3 @@
+C:/MyProjectsVSCode/OTUS/source_hw/build/CMakeFiles/hello_world.dir
+C:/MyProjectsVSCode/OTUS/source_hw/build/CMakeFiles/ALL_BUILD.dir
+C:/MyProjectsVSCode/OTUS/source_hw/build/CMakeFiles/ZERO_CHECK.dir
